@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-resume",
+  "version": "1.0.0",
+  "description": "Resume",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doujones/resume-node.git"
+  },
+  "author": "William Boswell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doujones/resume-node/issues"
+  },
+  "homepage": "https://github.com/doujones/resume-node#readme"
+}
